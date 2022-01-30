@@ -11,10 +11,10 @@ const Timeline = () => {
         - i love learning (and have a lot to learn)
       </SectionText>
       <SectionText>
-        - i'm interest in  the applications of NLP + image recognition for ASL and GIS + augmented reality for environmental/social issues
+        - i'm interested in the applications of NLP + image recognition for ASL and GIS + augmented reality for environmental/social issues
       </SectionText>
       <SectionText>
-        - i'm exploring blockchain and crypto
+        - i'm exploring web3 
       </SectionText>
       <SectionText>
         - i enjoy running, the outdoors, and music 
