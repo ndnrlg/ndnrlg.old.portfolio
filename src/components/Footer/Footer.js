@@ -2,7 +2,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <div>
-      <br>created with next.js</br>
+      created with next.js
     </div>
   );
 };
