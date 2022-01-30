@@ -16,12 +16,12 @@ const Header = () =>  (
     </Div1>
     <Div2>
       <li>
-        <Link href="#about">
+        <Link href="https://ndnrlg.github.io/#about">
           <NavLink>about</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#projects">
+        <Link href="https://ndnrlg.github.io/#projects">
           <NavLink>projects</NavLink>
         </Link>
       </li>
