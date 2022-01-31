@@ -1,7 +1,7 @@
 import React from 'react';
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
-import { LeftSection } from './HeroStyles';
+import { LeftSection, RightSection } from './HeroStyles';
 
 const Hero = (props) => (
   <Section row nopadding>
@@ -15,7 +15,9 @@ const Hero = (props) => (
       </SectionText>
       <Button onClick={() => window.location = 'mailto: nandinineralagi@gmail.com'}> contact me </Button>
     </LeftSection>
-    <img src="/images/n.jpg" alt ="" width="500" height="400"/>
+    <RightSection>
+    <img src="/images/n.jpg" alt ="" width="350" height="400"/>
+    </RightSection>
   </Section>
 );
 

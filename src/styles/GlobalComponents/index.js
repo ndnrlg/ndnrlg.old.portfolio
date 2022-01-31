@@ -101,7 +101,8 @@ export const SectionDivider = styled.div`
 export const ButtonBack = styled.div`
   width: ${({ alt }) => alt ? '150px' : '262px'};
   height: ${({ alt }) => alt ? '45px' : '64px'};
-  border-radius: 25px;
+  border: none;
+  border-radius: 2px;
   font-size: ${({ alt }) => alt ? '20px' : '24px'};
   font-weight: 600;
   display: flex;

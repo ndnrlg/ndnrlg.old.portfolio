@@ -63,8 +63,8 @@ export const NavLink = styled.a`
 export const SocialIcons = styled.a`
 transition: 0.3s ease;
 color: #5D160F;
-border-radius: 20px;
-  padding: 8px;
+border-radius: 15px;
+  padding: 4px;
 &:hover {
     background-color: #ffffff;
     transform: scale(1.2);

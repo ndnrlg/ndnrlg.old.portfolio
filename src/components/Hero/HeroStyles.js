@@ -10,3 +10,12 @@ export const LeftSection = styled.div`
   }
 `;
 
+export const RightSection = styled.div`
+  width: 100%;
+  padding-left: 15rem;
+  @media ${(props) => props.theme.breakpoints.md} {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+  }
+`;
