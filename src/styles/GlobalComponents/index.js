@@ -103,7 +103,7 @@ export const ButtonBack = styled.div`
   height: ${({ alt }) => alt ? '45px' : '64px'};
   border: none;
   border-radius: 2px;
-  font-size: ${({ alt }) => alt ? '20px' : '24px'};
+  font-size: 80%;
   font-weight: 600;
   display: flex;
   align-items: center;
@@ -145,7 +145,7 @@ export const ButtonFront = styled.button`
   background:#5D160F;
   opacity: ${({ disabled }) => disabled ? '.5' : '1'};
   transition: .4s ease;
-  font-size: ${({ alt }) => alt ? '20px' : '24px'};
+  font-size: 100%;
   font-weight: 600;
   align-items: center;
   justify-content: center;
