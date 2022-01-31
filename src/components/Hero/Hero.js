@@ -13,7 +13,7 @@ const Hero = (props) => (
       <SectionText>
         first-year statistics & machine learning student @ carnegie mellon   
       </SectionText>
-      <Button onClick={() => window.location = 'mailto: nandinineralagi@gmail.com'}> contact me </Button>
+      <Button onClick={() => window.location = "mailto:nandinineralagi@gmail.com"}> contact me </Button>
     </LeftSection>
     <RightSection>
     <img src="/images/n.jpg" alt ="" width="350" height="400"/>
