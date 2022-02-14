@@ -1,5 +1,10 @@
 export const projects = [
   {
+    title: 'lost and found',
+    description: "working on carnegie mellon's official lost and found site through scotty labs organization. tech: mongo, express, react."
+  
+  },
+  {
     title: 'wafte app',
     description: "helped build a sustainability app for a non-profit. helped develop app using swift/xcode and designed with figma. worked on global maps feature and directory."
   },
@@ -10,10 +15,5 @@ export const projects = [
   {
     title: 'next generation innovators',
     description:"i started an organization that teaches challenging stem concepts (ML, neuroscience, robotics engineering, etc.) to middle school students. featured in bay area newspapers."
-  },
-  {
-    title: 'music diversity index',
-    description: "spotify api project (current)"
-  
   },
 ];
