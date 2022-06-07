@@ -7,16 +7,15 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        nandini <br />
-        neralagi
+        Nandini <br />
+        Neralagi
       </SectionTitle>
       <SectionText>
-        first-year statistics & machine learning @ carnegie mellon   
+        Second-year Statistics + Machine Learning @ Carnegie Mellon   
       </SectionText>
-      <Button onClick={() => window.location = 'mailto:nandinineralagi@gmail.com'}> nandinineralagi@gmail.com </Button>
     </LeftSection>
     <RightSection>
-    <img src="/images/n.jpg" alt ="" width="350" height="400"/>
+    <img src="/images/n.jpg" />
     </RightSection>
   </Section>
 );

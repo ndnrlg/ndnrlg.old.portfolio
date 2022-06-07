@@ -1,8 +1,15 @@
 export const projects = [
   {
-    title: 'lost and found',
-    description: "working on carnegie mellon's official lost and found site through scotty labs organization. tech: mongo, express, react."
-  
+    title: 'Entity Analysis Framework',
+    description:"________"
+  },
+  {
+    title: 'Santorini Game',
+    description:"________"
+  },
+  {
+    title: 'Lost and Found',
+    description: "Worked on Carnegie Mellon's official lost and found site through the Scotty Labs organization. (Mongo, Express, React)"
   },
   {
     title: 'wafte app',

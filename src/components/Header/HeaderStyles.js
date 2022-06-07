@@ -51,7 +51,6 @@ export const NavLink = styled.a`
   color: #5D160F;
   transition: 0.4s ease;
   &:hover {
-    color: #fff;
     opacity: 1;
     cursor: pointer;
   }
@@ -66,7 +65,6 @@ color: #5D160F;
 border-radius: 15px;
   padding: 4px;
 &:hover {
-    background-color: #ffffff;
     transform: scale(1.2);
     cursor: pointer;
     

@@ -3,24 +3,9 @@ import { Section,  SectionText, SectionTitle } from '../../styles/GlobalComponen
 const Timeline = () => {
   return (
     <Section id="about">
-      <SectionTitle>about me</SectionTitle>
+      <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        - i am based in the bay area
-      </SectionText>
-      <SectionText>
-        - i love learning (and have a lot to learn)
-      </SectionText>
-      <SectionText>
-        - i'm interested in the applications of NLP + image recognition for ASL and GIS + augmented reality for environmental/social issues
-      </SectionText>
-      <SectionText>
-        - i'm exploring web3 
-      </SectionText>
-      <SectionText>
-        - i enjoy running, the outdoors, and music 
-      </SectionText>
-      <SectionText>
-      - i am currently searching for a summer 2022 internship 
+        I am based in the bay area. i'm interested in the applications of NLP + image recognition for ASL and GIS + augmented reality for environmental issues. i enjoy running, the outdoors, and music. I am an incoming SWE intern for Optum. 
       </SectionText>
     </Section>
   );
