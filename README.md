@@ -1,2 +1,2 @@
-## Nandini's Personal Site
-to run locally - `npm run dev`
+## My Personal Site
+to run locally - `npm run dev` (see ndnrlg.github.io)
