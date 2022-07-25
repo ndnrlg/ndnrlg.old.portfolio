@@ -10,10 +10,14 @@ export const LeftSection = styled.div`
   }
 `;
 
-export const RightSection = styled.div`
-  width: 500px;
-  height: 800px;
-  max-width:50%;
-  max-height:50%;
+export const ProfileImage = styled.div`
+width: 20%;
+padding-right: 15rem;
+@media ${(props) => props.theme.breakpoints.md} {
+  width: 80%;
   display: flex;
+  flex-direction: column;
+}
 `;
+
+

@@ -1,26 +1,22 @@
 export const projects = [
   {
-    title: 'Entity Analysis Framework',
-    description:"________"
+    title: 'Strava Weekly Stats',
+    description:"Used Strava’s API to retrieve weekly activities and MongoDB to store. Displayed weekly statistics and currently using Naismith’s Rule to compute Grade Adjusted Pace.",
+    giturl:"https://github.com/ndnrlg/strava"
   },
   {
-    title: 'Santorini Game',
-    description:"________"
+    title: 'Entity Analysis',
+    description:"Created a framework that performs entity analysis using trained models on text data with different forms of entities. Framework supports two types of plugins (data and visualization). As part of the project I also created a plugin for a Fake News Detection framework.",
+    giturl:"https://github.com/ndnrlg/entityanalysisframework"
+  },
+  {
+    title: 'Board Game',
+    description:"Created online board game in Typescript and Java.",
+    giturl:"https://github.com/ndnrlg/boardgame"
   },
   {
     title: 'Lost and Found',
-    description: "Worked on Carnegie Mellon's official lost and found site through the Scotty Labs organization. (Mongo, Express, React)"
-  },
-  {
-    title: 'wafte app',
-    description: "helped build a sustainability app for a non-profit. helped develop app using swift/xcode and designed with figma. worked on global maps feature and directory."
-  },
-  {
-    title: 'using solar to reduce C02 from power plants in LA by 25%',
-    description: "research project that i conduct at UCSB. used arcGIS + R for data collection and analysis on large datasets of powerplat pollution in LA county."
-  },
-  {
-    title: 'next generation innovators',
-    description:"i started an organization that teaches challenging stem concepts (ML, neuroscience, robotics engineering, etc.) to middle school students. featured in bay area newspapers."
-  },
+    description: "Worked on Carnegie Mellon's official lost and found site through the Scotty Labs organization. (Mongo, Express, React)",
+    giturl:"https://github.com/ScottyLabs/cmu_lost_and_found_v2"
+  }
 ];
